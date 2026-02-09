@@ -1,0 +1,10 @@
+# Dash and UI
+dash>=2.14.0
+dash-bootstrap-components>=1.5.0
+plotly>=5.18.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Production server
+gunicorn>=21.0.0
